@@ -34,8 +34,8 @@ var data = []IpoMessage{
 		RefundDateMs:             1626134400000, // 2021.07.13
 		ListingDateMs:            1626393600000, // 2021.07.16
 		FinalOfferingPrice:       52000,
-		OfferingRangeLowerLimit:  52000,
-		OfferingRangeHigherLimit: 45000,
+		OfferingRangeLowerLimit:  45000,
+		OfferingRangeHigherLimit: 52000,
 		CompetitiveRate2f:        27402,
 		LeadManagers: []string{
 			"NH투자증권", "한국투자증권", "삼성증권", "KB증권",
