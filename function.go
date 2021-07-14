@@ -2,33 +2,14 @@ package ipo
 
 import (
 	"encoding/json"
-	"fmt"
-	"html"
-	"io"
 	"log"
 	"net/http"
 )
 
 func ListIpos(w http.ResponseWriter, r *http.Request) {
-	var d struct {
-		Message string `json:"message"`
-	}
+	w.Header().Set("Content-Type", "application/json")
 
-	if err := json.NewDecoder(r.Body).Decode(&d); err != nil {
-		switch err {
-		case io.EOF:
-			fmt.Fprint(w, "Hello World!")
-			return
-		default:
-			log.Printf("json.NewDecoder: %v", err)
-			http.Error(w, http.StatusText(http.StatusBadRequest), http.StatusBadRequest)
-			return
-		}
+	if err := json.NewEncoder(w).Encode(data); err != nil {
+		log.Fatal(err)
 	}
-
-	if d.Message == "" {
-		fmt.Fprint(w, "Hello World!")
-		return
-	}
-	fmt.Fprint(w, html.EscapeString(d.Message))
 }
