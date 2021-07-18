@@ -1,0 +1,266 @@
+[
+    {
+     "item_name": "바이젠셀",
+     "start_date": "2021.08.12",
+     "end_date": "2021.08.13",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 42800,
+     "offering_range_higher_limit": 52700,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "대신증권",
+      "KB증권"
+     ]
+    },
+    {
+     "item_name": "일진하이솔루스(유가)",
+     "start_date": "2021.08.11",
+     "end_date": "2021.08.12",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 30300,
+     "offering_range_higher_limit": 37300,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "미래에셋증권",
+      "삼성증권",
+      "현대차증권",
+      "대신증권"
+     ]
+    },
+    {
+     "item_name": "에이비온",
+     "start_date": "2021.08.11",
+     "end_date": "2021.08.12",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 14500,
+     "offering_range_higher_limit": 17000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "미래에셋증권",
+      "한화투자증권",
+      "유진투자증권"
+     ]
+    },
+    {
+     "item_name": "브레인즈컴퍼니",
+     "start_date": "2021.08.09",
+     "end_date": "2021.08.10",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 20000,
+     "offering_range_higher_limit": 22500,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "키움증권"
+     ]
+    },
+    {
+     "item_name": "아주스틸(유가)",
+     "start_date": "2021.08.09",
+     "end_date": "2021.08.10",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 12700,
+     "offering_range_higher_limit": 15100,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "미래에셋증권"
+     ]
+    },
+    {
+     "item_name": "롯데렌탈(유가)",
+     "start_date": "2021.08.09",
+     "end_date": "2021.08.10",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 47000,
+     "offering_range_higher_limit": 59000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "NH투자증권",
+      "한국투자증권",
+      "KB증권",
+      "미래에셋증권",
+      "삼성증권",
+      "신한금융",
+      "키움증권",
+      "하나금융"
+     ]
+    },
+    {
+     "item_name": "딥노이드",
+     "start_date": "2021.08.05",
+     "end_date": "2021.08.06",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 31500,
+     "offering_range_higher_limit": 42000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "KB증권"
+     ]
+    },
+    {
+     "item_name": "한컴라이프케어(유가)",
+     "start_date": "2021.08.05",
+     "end_date": "2021.08.06",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 10700,
+     "offering_range_higher_limit": 13700,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "미래에셋증권"
+     ]
+    },
+    {
+     "item_name": "플래티어",
+     "start_date": "2021.08.04",
+     "end_date": "2021.08.05",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 8500,
+     "offering_range_higher_limit": 10000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "KB증권",
+      "하나금융투자"
+     ]
+    },
+    {
+     "item_name": "엠로",
+     "start_date": "2021.08.04",
+     "end_date": "2021.08.05",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 20100,
+     "offering_range_higher_limit": 22600,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "한국투자증권"
+     ]
+    },
+    {
+     "item_name": "크래프톤(유가)",
+     "start_date": "2021.08.02",
+     "end_date": "2021.08.03",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 400000,
+     "offering_range_higher_limit": 498000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "미래에셋증권",
+      "NH투자증권",
+      "삼성증권"
+     ]
+    },
+    {
+     "item_name": "원티드랩",
+     "start_date": "2021.08.02",
+     "end_date": "2021.08.03",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 28000,
+     "offering_range_higher_limit": 35000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "한국투자증권"
+     ]
+    },
+    {
+     "item_name": "에이치케이이노엔",
+     "start_date": "2021.07.29",
+     "end_date": "2021.07.30",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 50000,
+     "offering_range_higher_limit": 59000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "한국투자증권",
+      "삼성증권"
+     ]
+    },
+    {
+     "item_name": "카카오뱅크(유가)",
+     "start_date": "2021.07.26",
+     "end_date": "2021.07.27",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 33000,
+     "offering_range_higher_limit": 39000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "KB증권",
+      "한국투자증권",
+      "하나금융투자",
+      "현대차증권"
+     ]
+    },
+    {
+     "item_name": "한화플러스스팩2호",
+     "start_date": "2021.07.26",
+     "end_date": "2021.07.27",
+     "final_offering_price": null,
+     "offering_range_lower_limit": 2000,
+     "offering_range_higher_limit": 2000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "한화투자증권"
+     ]
+    },
+    {
+     "item_name": "에브리봇",
+     "start_date": "2021.07.19",
+     "end_date": "2021.07.20",
+     "final_offering_price": 36700,
+     "offering_range_lower_limit": 32600,
+     "offering_range_higher_limit": 36700,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "NH투자증권"
+     ]
+    },
+    {
+     "item_name": "맥스트",
+     "start_date": "2021.07.16",
+     "end_date": "2021.07.19",
+     "final_offering_price": 15000,
+     "offering_range_lower_limit": 11000,
+     "offering_range_higher_limit": 13000,
+     "competitive_rate_2f": null,
+     "lead_manager": [
+      "하나금융투자"
+     ]
+    },
+    {
+     "item_name": "큐라클",
+     "start_date": "2021.07.13",
+     "end_date": "2021.07.14",
+     "final_offering_price": 25000,
+     "offering_range_lower_limit": 20000,
+     "offering_range_higher_limit": 25000,
+     "competitive_rate_2f": 154690,
+     "lead_manager": [
+      "삼성증권",
+      "NH투자증권"
+     ]
+    },
+    {
+     "item_name": "에스디바이오센서(유가)",
+     "start_date": "2021.07.08",
+     "end_date": "2021.07.09",
+     "final_offering_price": 52000,
+     "offering_range_lower_limit": 45000,
+     "offering_range_higher_limit": 52000,
+     "competitive_rate_2f": 27402,
+     "lead_manager": [
+      "NH투자증권",
+      "한국투자증권",
+      "삼성증권",
+      "KB증권"
+     ]
+    },
+    {
+     "item_name": "오비고",
+     "start_date": "2021.07.01",
+     "end_date": "2021.07.02",
+     "final_offering_price": 14300,
+     "offering_range_lower_limit": 12400,
+     "offering_range_higher_limit": 14300,
+     "competitive_rate_2f": 148515,
+     "lead_manager": [
+      "NH투자증권"
+     ]
+    }
+   ]
