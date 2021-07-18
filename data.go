@@ -9,8 +9,6 @@ import (
 type IpoMessage struct {
 	// 종목명
 	ItemName string `json:"item_name"`
-	// 종목코드
-	TickerCode string `json:"ticker_code"`
 	// 공모 청약 시작일
 	StartDate string `json:"start_date"`
 	// 공모 청약 종료일
@@ -24,7 +22,7 @@ type IpoMessage struct {
 	// 경쟁률
 	CompetitiveRate2f *int64 `json:"competitive_rate_2f"`
 	// 주간사
-	LeadManagers []string `json:"lead_manager"`
+	LeadManagers []string `json:"lead_managers"`
 }
 
 const fileName = "ipos.json"

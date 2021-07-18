@@ -7,7 +7,7 @@
      "offering_range_lower_limit": 42800,
      "offering_range_higher_limit": 52700,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "대신증권",
       "KB증권"
      ]
@@ -20,7 +20,7 @@
      "offering_range_lower_limit": 30300,
      "offering_range_higher_limit": 37300,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "미래에셋증권",
       "삼성증권",
       "현대차증권",
@@ -35,7 +35,7 @@
      "offering_range_lower_limit": 14500,
      "offering_range_higher_limit": 17000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "미래에셋증권",
       "한화투자증권",
       "유진투자증권"
@@ -49,7 +49,7 @@
      "offering_range_lower_limit": 20000,
      "offering_range_higher_limit": 22500,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "키움증권"
      ]
     },
@@ -61,7 +61,7 @@
      "offering_range_lower_limit": 12700,
      "offering_range_higher_limit": 15100,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "미래에셋증권"
      ]
     },
@@ -73,7 +73,7 @@
      "offering_range_lower_limit": 47000,
      "offering_range_higher_limit": 59000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "NH투자증권",
       "한국투자증권",
       "KB증권",
@@ -92,7 +92,7 @@
      "offering_range_lower_limit": 31500,
      "offering_range_higher_limit": 42000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "KB증권"
      ]
     },
@@ -104,7 +104,7 @@
      "offering_range_lower_limit": 10700,
      "offering_range_higher_limit": 13700,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "미래에셋증권"
      ]
     },
@@ -116,7 +116,7 @@
      "offering_range_lower_limit": 8500,
      "offering_range_higher_limit": 10000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "KB증권",
       "하나금융투자"
      ]
@@ -129,7 +129,7 @@
      "offering_range_lower_limit": 20100,
      "offering_range_higher_limit": 22600,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "한국투자증권"
      ]
     },
@@ -141,7 +141,7 @@
      "offering_range_lower_limit": 400000,
      "offering_range_higher_limit": 498000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "미래에셋증권",
       "NH투자증권",
       "삼성증권"
@@ -155,7 +155,7 @@
      "offering_range_lower_limit": 28000,
      "offering_range_higher_limit": 35000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "한국투자증권"
      ]
     },
@@ -167,7 +167,7 @@
      "offering_range_lower_limit": 50000,
      "offering_range_higher_limit": 59000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "한국투자증권",
       "삼성증권"
      ]
@@ -180,7 +180,7 @@
      "offering_range_lower_limit": 33000,
      "offering_range_higher_limit": 39000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "KB증권",
       "한국투자증권",
       "하나금융투자",
@@ -195,7 +195,7 @@
      "offering_range_lower_limit": 2000,
      "offering_range_higher_limit": 2000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "한화투자증권"
      ]
     },
@@ -207,7 +207,7 @@
      "offering_range_lower_limit": 32600,
      "offering_range_higher_limit": 36700,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "NH투자증권"
      ]
     },
@@ -219,7 +219,7 @@
      "offering_range_lower_limit": 11000,
      "offering_range_higher_limit": 13000,
      "competitive_rate_2f": null,
-     "lead_manager": [
+     "lead_managers": [
       "하나금융투자"
      ]
     },
@@ -231,7 +231,7 @@
      "offering_range_lower_limit": 20000,
      "offering_range_higher_limit": 25000,
      "competitive_rate_2f": 154690,
-     "lead_manager": [
+     "lead_managers": [
       "삼성증권",
       "NH투자증권"
      ]
@@ -244,7 +244,7 @@
      "offering_range_lower_limit": 45000,
      "offering_range_higher_limit": 52000,
      "competitive_rate_2f": 27402,
-     "lead_manager": [
+     "lead_managers": [
       "NH투자증권",
       "한국투자증권",
       "삼성증권",
@@ -259,7 +259,7 @@
      "offering_range_lower_limit": 12400,
      "offering_range_higher_limit": 14300,
      "competitive_rate_2f": 148515,
-     "lead_manager": [
+     "lead_managers": [
       "NH투자증권"
      ]
     }
