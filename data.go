@@ -3,7 +3,7 @@ package ipo
 import (
 	"encoding/json"
 	"io/ioutil"
-	"os"
+	"net/http"
 )
 
 type IpoMessage struct {
@@ -30,16 +30,20 @@ type IpoMessage struct {
 const fileName = "ipos.json"
 
 func GetIpoData() ([]*IpoMessage, error) {
-	jsonFile, err := os.Open(fileName)
+
+	resp, err := http.Get("https://raw.githubusercontent.com/dojinkimm/ipo/master/ipos.json")
 	if err != nil {
 		return nil, err
 	}
-	defer jsonFile.Close()
+	defer resp.Body.Close()
 
-	byteValue, _ := ioutil.ReadAll(jsonFile)
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return nil, err
+	}
 
 	var ipos []*IpoMessage
-	if err := json.Unmarshal(byteValue, &ipos); err != nil {
+	if err := json.Unmarshal(content, &ipos); err != nil {
 		return nil, err
 	}
 
